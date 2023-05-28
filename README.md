@@ -30,7 +30,7 @@ Adicione o banco de dados em sua aplicação e crie um usuário para testes.
 
 Acesse o endereço: localhost:8080 no navegador e a aplição já estará disponível.
 
-![Login](img/twiiter1.gif)
+![Login](public/img/twiiter1.gif)
 
-![Funções](img/twiiter2.gif)
+![Funções](public/img/twiiter2.gif)
 
