@@ -26,9 +26,12 @@ php -S localhost:8080
 ```
 
 
-Adicione o banco de dados em sua aplicação e crie um usuário para testes.
+Adicione o banco de dados em sua aplicação e crie um usuário para testes. Use encripitação MD5 na senha para funcionar.
+![Adicionando-Usuário](public/img/bancodedados.gif)
 
-Acesse o endereço: localhost:8080 no navegador e a aplição já estará disponível.
+
+
+Acesse o endereço: localhost:8080 no navegador e a aplicação já estará disponível.
 
 ![Login](public/img/twiiter1.gif)
 
