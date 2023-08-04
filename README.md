@@ -35,5 +35,4 @@ Acesse o endereço: localhost:8080 no navegador e a aplicação já estará disp
 
 ![Login](public/img/twiiter1.gif)
 
-![Funções](public/img/twiiter2.gif)
 
